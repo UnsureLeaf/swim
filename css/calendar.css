@@ -13,6 +13,7 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    background-color: #483d8b;
 
 }
 .main-nav a:hover {
@@ -34,7 +35,7 @@ div.events {
 
 }
 div.calendar {
-    background-color: rgb(48,74,78);
+   background-color: rgb(48,74,78); 
 }
 div.calendar img {
     width: 70%;
