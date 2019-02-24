@@ -33,6 +33,9 @@ div.events {
     padding-top: 10%;
 
 }
+div.calendar {
+    background-color: rgb(48,74,78);
+}
 div.calendar img {
     width: 70%;
     float: right;
