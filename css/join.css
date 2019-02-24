@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+.main-nav {
+    background-color: #483d8b;
+    overflow: hidden;
+}
+.main-nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.main-nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.main-nav a.active {
+    background-color: #696969;
+    color: white;
+}
+
+p {
+    background-color: rgb(48,74,78);
+    color: white;
+    text-align: center;
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
